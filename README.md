@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### `Hello, I'm Pakistaniboy442!`
 <!--
 **Pakistaniboy442/Pakistaniboy442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-`Hello, I'm Pakistaniboy442!`
+
 -I am a fan of Microsoft's WPF framework. 
+
 -As I speak, I am working as a project named: "**MangaFlix**". 
-*For more info visit: https://github.com/Pakistaniboy442/MangaFlix-JBA.
+
+*For more info visit: https://github.com/Pakistaniboy442/MangaFlix-JBA.*
